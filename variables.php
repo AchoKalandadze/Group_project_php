@@ -115,7 +115,7 @@ $sliderContent =
         'span'=>'Hospital',
         'p'=>'when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to',
         'a_href'=>'Contact Us',
-        'img'=>'images/slider-img.jpg'
+        'img'=>'images/contact-img.jpg'
     ]
     ,[
         'class'=>'carousel-item',
@@ -123,7 +123,7 @@ $sliderContent =
         'span'=>'Hospital',
         'p'=>'when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to',
         'a_href'=>'Contact Us',
-        'img'=>'images/slider-img.jpg'
+        'img'=>'images/about-img.jpg'
     ]
     ,
 ];
@@ -198,4 +198,18 @@ $testimonialContent =
         'p'=>"Variouseditors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy, editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Variouseditors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various"
     ]
     ,
+];
+
+$docs=
+[
+    "Hennry",
+    "Jenni",
+    "Morco",
+];
+$deps=
+[
+    "Nephrologist Care",
+    "Eye Care",
+    "Pediatrician Clinic",
+    "Parental Care"
 ];

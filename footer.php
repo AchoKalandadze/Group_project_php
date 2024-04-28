@@ -8,9 +8,9 @@
           </a>
         </div>
         <div class="info_form">
-          <form action="">
-            <input type="email" placeholder="Your email">
-            <button>
+          <form action="sub_confirmation.php" method="POST">
+            <input type="email" placeholder="Your email" required>
+            <button type="submit">
               Subscribe
             </button>
           </form>

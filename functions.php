@@ -186,3 +186,14 @@ function testimonal($arr){
         ' ;
      }
 }
+
+// Function to generate doctors and departaments for book section
+
+function bookSecElems($arr){
+  foreach($arr as $elem){
+      echo 
+      '
+      <option value="Normal distribution ">'. $elem .' </option>
+      ' ;
+   }
+}

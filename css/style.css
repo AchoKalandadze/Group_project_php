@@ -4,6 +4,23 @@ body {
   background-color: #ffffff;
   overflow-x: hidden;
 }
+.bConfSpliter {
+  padding: 90px 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap:20px;
+}
+
+.bConfSpliter p{
+  display:block;
+}
+
+.bConfLeft {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+
+}
 
 .layout_padding {
   padding: 90px 0;
@@ -1130,4 +1147,5 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
+
 /*# sourceMappingURL=style.css.map */
